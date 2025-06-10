@@ -1,0 +1,25 @@
+{
+  "name": "ai-content-performance-analyzer",
+  "version": "2.0.0",
+  "description": "Advanced content analysis with AI-powered SEO insights, competitor content strategies, and performance optimization",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.1.0",
+    "crawlee": "^3.5.0",
+    "puppeteer": "^21.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.5.0",
+    "lodash": "^4.17.21"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "content-marketing",
+    "premium",
+    "enterprise",
+    "data-extraction"
+  ],
+  "author": "Premium Scraper Solutions",
+  "license": "MIT"
+}
